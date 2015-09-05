@@ -1,0 +1,5 @@
+Order deny,allow
+Allow from 213.186.115.164
+Allow from 213.186.115.168
+Allow from 213.186.115.170
+Deny from all
